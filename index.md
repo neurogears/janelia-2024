@@ -67,6 +67,12 @@ A growing ecosystem of open-source tools for behavioral neuroscience
 
 ---
 
+![Bonsai-ML](./assets/images/bonsai-ml.svg)
+
+[bonsai-rx.org/machinelearning](https://bonsai-rx.org/machinelearning)
+
+---
+
 ![Bonsai](./assets/images/bonsai-lettering.svg)
 
 ### Questions?
