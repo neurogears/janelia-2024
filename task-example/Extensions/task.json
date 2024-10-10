@@ -1,0 +1,41 @@
+{
+  "$defs": {
+    "Trial": {
+      "properties": {
+        "pos_x": {
+          "title": "Pos X",
+          "type": "number"
+        },
+        "pos_y": {
+          "title": "Pos Y",
+          "type": "number"
+        },
+        "duration": {
+          "title": "Duration",
+          "type": "number"
+        }
+      },
+      "required": [
+        "pos_x",
+        "pos_y",
+        "duration"
+      ],
+      "title": "Trial",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "trials": {
+      "items": {
+        "$ref": "#/$defs/Trial"
+      },
+      "title": "Trials",
+      "type": "array"
+    }
+  },
+  "required": [
+    "trials"
+  ],
+  "title": "Block",
+  "type": "object"
+}
