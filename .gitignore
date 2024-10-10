@@ -7,6 +7,12 @@ _site
 Gemfile.lock
 
 # Bonsai environment
+bin/
+obj/
 *.exe
 *.exe.*
 Packages
+
+# Python environment
+.venv
+__pycache__
