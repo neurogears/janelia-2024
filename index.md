@@ -55,6 +55,74 @@ What is Bonsai?
 
 ---
 
+#### [Marble diagrams](https://bonsai-rx.org/docs/articles/observables.html)
+
+![Marble diagram](./assets/images/marblediagram.svg)
+
+![Error diagram](./assets/images/marblediagram-error.svg)
+<!-- .element: class="fragment" -->
+
+![Operator diagram](./assets/images/marblediagram-operator.svg)
+<!-- .element: class="fragment" -->
+
+---
+
+<!-- .element: data-transition="default none" -->
+![Workflow](./assets/images/graycam.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/graycam-marble.svg)
+<!-- .element: class="fragment" style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="default none" -->
+![Workflow](./assets/images/graycam.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/graycam-marble-effects.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="default none" -->
+![Workflow](./assets/images/graycam.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/grayscaletransform.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="default none" -->
+![Workflow](./assets/images/framepicker-key.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/framepicker-marblecanvas.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+![Workflow](./assets/images/framepicker-sample.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/grayscalesample.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+![Workflow](./assets/images/framepicker-saveimage.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/saveimage.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+--
+
+<!-- .element: data-transition="none" -->
+![Workflow](./assets/images/framepicker-saveimage.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+![Marble diagram](./assets/images/saveimagesink.svg)
+<!-- .element: style="display: inline-block; vertical-align: middle;" -->
+
+---
+
 A growing ecosystem of open-source tools for behavioral neuroscience
 
 ![Bonsai](./assets/images/bonsai-hardware.svg)
