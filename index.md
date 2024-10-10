@@ -73,20 +73,7 @@ A growing ecosystem of open-source tools for behavioral neuroscience
 
 ---
 
-![Bonsai](./assets/images/bonsai-lettering.svg)
-
-### Questions?
-[neurogears.org/janelia-2024](https://neurogears.org/janelia-2024)
-<table style="width: 100%;">
-  <tr>
-    <th style="vertical-align: middle; width: 50%; height: 100px; padding-left: 100px">
-      <img alt="NeuroGEARS" src="./assets/images/neurogears.svg"/>
-    </th>
-    <th style="vertical-align: middle; width: 40%; height: 170px; align: right">
-      <img alt="Gatsby" src="./assets/images/gatsby.png"/>
-    </th>
-  </tr>
-</table>
+![Team](./assets/images/team.svg)
 
 </script>
 </section>
