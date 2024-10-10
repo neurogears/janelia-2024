@@ -12,6 +12,9 @@ obj/
 *.exe
 *.exe.*
 Packages
+*.bonsai.layout
+*.csv
+*.avi
 
 # Python environment
 .venv
